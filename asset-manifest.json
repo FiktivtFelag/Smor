@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Smor/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Smor/static/js/main.c2eef235.chunk.js",
+    "main.js.map": "/Smor/static/js/main.c2eef235.chunk.js.map",
+    "runtime-main.js": "/Smor/static/js/runtime-main.40f2c2a6.js",
+    "runtime-main.js.map": "/Smor/static/js/runtime-main.40f2c2a6.js.map",
+    "static/js/2.7103a429.chunk.js": "/Smor/static/js/2.7103a429.chunk.js",
+    "static/js/2.7103a429.chunk.js.map": "/Smor/static/js/2.7103a429.chunk.js.map",
+    "static/js/3.c462dd54.chunk.js": "/Smor/static/js/3.c462dd54.chunk.js",
+    "static/js/3.c462dd54.chunk.js.map": "/Smor/static/js/3.c462dd54.chunk.js.map",
+    "index.html": "/Smor/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Smor/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7103a429.chunk.js.LICENSE.txt": "/Smor/static/js/2.7103a429.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40f2c2a6.js",
+    "static/js/2.7103a429.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.c2eef235.chunk.js"
+  ]
+}
