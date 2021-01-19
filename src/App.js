@@ -6,6 +6,7 @@ function App() {
 
   return (
     <div className="App">
+      {isVisible && <p>Hello world</p>}
       <div
         style={{
           width: "50px",
@@ -17,7 +18,6 @@ function App() {
       >
         Press Me!
       </div>
-      {isVisible && <p>Hello world</p>}
     </div>
   );
 }
